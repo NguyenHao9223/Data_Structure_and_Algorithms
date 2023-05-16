@@ -1,0 +1,105 @@
+2001;    Thien Su;    Saekisan;    Live Novel;    Kim Dong;559
+2347;    New World;    Edward Smith;    Novel;    HN Publisher;200
+6789;    The Catcher in the Rye;    J.D. Salinger;    Fiction;    Little, Brown and Company;500
+3948;    The Great Gatsby;    F. Scott Fitzgerald;    Fiction;    Charles Scribner's Sons;249
+5271;    One Hundred Years of Solitude;    Gabriel Garcia Marquez;    Magical Realism;    Editorial Sudamericana;250
+8206;    The Road;    Cormac McCarthy;    Post-Apocalyptic Fiction;    Alfred A. Knopf;150
+4653;    The Alchemist;    Paulo Coelho;    Inspirational Fiction;    HarperCollins;400
+2019;    The Wealth of Nations;    Adam Smith;    Economics;    W. Strahan and T. Cadell;100
+8951;    The Prince;    Niccolò Machiavelli;    Political Philosophy;    Unknown;148
+7325;    The Communist Manifesto;    Karl Marx & Friedrich Engels;    Politics;    Unknown;299
+3612;    The Adventures of Sherlock Holmes;    Arthur Conan Doyle;    Detective Fiction;    George Newnes Ltd;500
+5491;    To Kill a Mockingbird;    Harper Lee;    Fiction;    J.B. Lippincott & Co.;300
+8973;    1984;    George Orwell;    Fiction;    Secker & Warburg;449
+1526;    The Great Gatsby;    F. Scott Fitzgerald;    Fiction;    Charles Scribner's Sons;249
+9832;    Pride and Prejudice;    Jane Austen;    Fiction;    Thomas Egerton;350
+6741;    Animal Farm;    George Orwell;    Fiction;    Secker & Warburg;400
+2598;    The Catcher in the Rye;    J.D. Salinger;    Fiction;    Little, Brown and Company;499
+4371;    To the Lighthouse;    Virginia Woolf;    Fiction;    Hogarth Press;150
+6031;    Ulysses;    James Joyce;    Fiction;    Sylvia Beach;99
+7129;    The Picture of Dorian Gray;    Oscar Wilde;    Fiction;    Ward, Lock and Company;200
+3185;    Jane Eyre;    Charlotte Bronte;    Fiction;    Smith, Elder & Co.;299
+5692;    Wuthering Heights;    Emily Bronte;    Fiction;    Thomas Cautley Newby;250
+4159;    Frankenstein;    Mary Shelley;    Fiction;    Lackington, Hughes, Harding, Mavor & Jones;400
+7603;    Dracula;    Bram Stoker;    Fiction;    Archibald Constable and Company;350
+1347;    The Bourne Identity;    Robert Ludlum;    Thriller;    Richard Marek Publishers;249
+2956;    The Hunt for Red October;    Tom Clancy;    Thriller;    Naval Institute Press;299
+6189;    Jurassic Park;    Michael Crichton;    Science Fiction;    Alfred A. Knopf;349
+9452;    Dune;    Frank Herbert;    Science Fiction;    Chilton Books;200
+8741;    The Hitchhiker's Guide to the Galaxy;    Douglas Adams;    Science Fiction;    Pan Books;250
+2961;    Neuromancer;    William Gibson;    Science Fiction;    Ace Books;100
+5193;    Foundation;    Isaac Asimov;    Science Fiction;    Gnome Press;150
+7032;    Brave New World;    Aldous Huxley;    Science Fiction;    Chatto & Windus;199
+2459;    The Hunger Games;    Suzanne Collins;    Young Adult;    Scholastic Corporation;400
+8173;    Harry Potter and the Philosopher's Stone;    J.K. Rowling;    Young Adult;    Bloomsbury Publishing;499
+4819;    The Fault in Our Stars;    John Green;    Young Adult;    Dutton Books;300
+1568;    Twilight;    Stephenie Meyer;    Young Adult;    Little, Brown and Company;250
+9024;    The Hobbit;    J.R.R. Tolkien;    Fantasy;    Allen & Unwin;350
+5703;    The Lord of the Rings;    J.R.R. Tolkien;    Fantasy;    George Allen & Unwin;250
+6782;    A Game of Thrones;    George R.R. Martin;    Fantasy;    Bantam Spectra;400
+1295;    The Lion, the Witch and the Wardrobe;    C.S. Lewis;    Fantasy;    Geoffrey Bles;299
+3649;    The Name of the Wind;    Patrick Rothfuss;    Fantasy;    DAW Books;250
+7402;    The Girl with the Dragon Tattoo;    Stieg Larsson;    Mystery;    Norstedts Förlag;199
+5284;    Things Fall Apart;    Chinua Achebe;    Historical Fiction;    William Heinemann Ltd;200
+9378;    The Art of War;    Sun Tzu;    Military Strategy;    Unknown;149
+6740;    The Origin of Species;    Charles Darwin;    Science;    John Murray;200
+3947;    The Structure of Scientific Revolutions;    Thomas S. Kuhn;    Philosophy of Science;    University of Chicago Press;150
+8209;    The Republic;    Plato;    Philosophy;    Unknown;250
+3614;    Meditations;    Marcus Aurelius;    Philosophy;    Unknown;200
+5273;    The Prince;    Niccolò Machiavelli;    Political Philosophy;    Unknown;149
+8957;    The Communist Manifesto;    Karl Marx and Friedrich Engels;    Politics;    Unknown;300
+1551;    Little Women;    Louisa May Alcott;    Fiction;    Roberts Brothers;450
+1262;    The War Of The Worlds;    H.G. Wells;    Fiction;    William Heinemann;299
+4522;    Older Sister;    Eva;    Novel;    Ha Noi Publisher;150
+2347;    New World;    Edward Smith;    Novel;    HN Publisher;200
+6789;    The Catcher in the Rye;    J.D. Salinger;    Fiction;    Little, Brown and Company;500
+3948;    The Great Gatsby;    F. Scott Fitzgerald;    Fiction;    Charles Scribner's Sons;249
+5271;    One Hundred Years of Solitude;    Gabriel Garcia Marquez;    Magical Realism;    Editorial Sudamericana;250
+8206;    The Road;    Cormac McCarthy;    Post-Apocalyptic Fiction;    Alfred A. Knopf;150
+4653;    The Alchemist;    Paulo Coelho;    Inspirational Fiction;    HarperCollins;400
+2019;    The Wealth of Nations;    Adam Smith;    Economics;    W. Strahan and T. Cadell;99
+8951;    The Prince;    Niccolò Machiavelli;    Political Philosophy;    Unknown;148
+7325;    The Communist Manifesto;    Karl Marx & Friedrich Engels;    Politics;    Unknown;299
+3612;    The Adventures of Sherlock Holmes;    Arthur Conan Doyle;    Detective Fiction;    George Newnes Ltd;500
+5491;    To Kill a Mockingbird;    Harper Lee;    Fiction;    J.B. Lippincott & Co.;300
+8973;    1984;    George Orwell;    Fiction;    Secker & Warburg;449
+1526;    The Great Gatsby;    F. Scott Fitzgerald;    Fiction;    Charles Scribner's Sons;249
+9832;    Pride and Prejudice;    Jane Austen;    Fiction;    Thomas Egerton;350
+6741;    Animal Farm;    George Orwell;    Fiction;    Secker & Warburg;400
+2598;    The Catcher in the Rye;    J.D. Salinger;    Fiction;    Little, Brown and Company;499
+4371;    To the Lighthouse;    Virginia Woolf;    Fiction;    Hogarth Press;150
+6031;    Ulysses;    James Joyce;    Fiction;    Sylvia Beach;98
+7129;    The Picture of Dorian Gray;    Oscar Wilde;    Fiction;    Ward, Lock and Company;200
+3185;    Jane Eyre;    Charlotte Bronte;    Fiction;    Smith, Elder & Co.;299
+5692;    Wuthering Heights;    Emily Bronte;    Fiction;    Thomas Cautley Newby;250
+4159;    Frankenstein;    Mary Shelley;    Fiction;    Lackington, Hughes, Harding, Mavor & Jones;400
+7603;    Dracula;    Bram Stoker;    Fiction;    Archibald Constable and Company;350
+1347;    The Bourne Identity;    Robert Ludlum;    Thriller;    Richard Marek Publishers;249
+2956;    The Hunt for Red October;    Tom Clancy;    Thriller;    Naval Institute Press;299
+6189;    Jurassic Park;    Michael Crichton;    Science Fiction;    Alfred A. Knopf;349
+9452;    Dune;    Frank Herbert;    Science Fiction;    Chilton Books;200
+8741;    The Hitchhiker's Guide to the Galaxy;    Douglas Adams;    Science Fiction;    Pan Books;250
+2961;    Neuromancer;    William Gibson;    Science Fiction;    Ace Books;100
+5193;    Foundation;    Isaac Asimov;    Science Fiction;    Gnome Press;150
+7032;    Brave New World;    Aldous Huxley;    Science Fiction;    Chatto & Windus;199
+2459;    The Hunger Games;    Suzanne Collins;    Young Adult;    Scholastic Corporation;400
+8173;    Harry Potter and the Philosopher's Stone;    J.K. Rowling;    Young Adult;    Bloomsbury Publishing;499
+4819;    The Fault in Our Stars;    John Green;    Young Adult;    Dutton Books;300
+1568;    Twilight;    Stephenie Meyer;    Young Adult;    Little, Brown and Company;250
+9024;    The Hobbit;    J.R.R. Tolkien;    Fantasy;    Allen & Unwin;350
+5703;    The Lord of the Rings;    J.R.R. Tolkien;    Fantasy;    George Allen & Unwin;250
+6782;    A Game of Thrones;    George R.R. Martin;    Fantasy;    Bantam Spectra;400
+1295;    The Lion, the Witch and the Wardrobe;    C.S. Lewis;    Fantasy;    Geoffrey Bles;299
+3649;    The Name of the Wind;    Patrick Rothfuss;    Fantasy;    DAW Books;250
+7402;    The Girl with the Dragon Tattoo;    Stieg Larsson;    Mystery;    Norstedts Förlag;199
+5284;    Things Fall Apart;    Chinua Achebe;    Historical Fiction;    William Heinemann Ltd;200
+9378;    The Art of War;    Sun Tzu;    Military Strategy;    Unknown;149
+6740;    The Origin of Species;    Charles Darwin;    Science;    John Murray;200
+3947;    The Structure of Scientific Revolutions;    Thomas S. Kuhn;    Philosophy of Science;    University of Chicago Press;150
+8209;    The Republic;    Plato;    Philosophy;    Unknown;250
+3614;    Meditations;    Marcus Aurelius;    Philosophy;    Unknown;200
+5273;    The Prince;    Niccolò Machiavelli;    Political Philosophy;    Unknown;149
+8957;    The Communist Manifesto;    Karl Marx and Friedrich Engels;    Politics;    Unknown;300
+1551;    Little Women;    Louisa May Alcott;    Fiction;    Roberts Brothers;450
+1262;    The War Of The Worlds;    H.G. Wells;    Fiction;    William Heinemann;299
+4522;    Older Sister;    Eva;    Novel;    Ha Noi Publisher;150
